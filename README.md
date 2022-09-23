@@ -5,5 +5,5 @@
 
 
 - Discord  > ! Mag#9999
-- Facebook > ! https://www.facebook.com/PeeraphonSawangyat
-- Youtube  > ! https://www.youtube.com/channel/UCI94pxRU-TibCzjdYD394_A
+- Facebook > https://www.facebook.com/PeeraphonSawangyat
+- Youtube  > https://www.youtube.com/channel/UCI94pxRU-TibCzjdYD394_A
