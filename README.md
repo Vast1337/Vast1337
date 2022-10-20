@@ -1,5 +1,5 @@
 <h1 align="center">MAG 🤍</h1>
-<h3 align="center">https://kclx.w3spaces.com/ </h3>
+<h3 align="center">https://mageiei.github.io/ </h3>
 
 <h3 align="center">you can download source code</h3>
 
