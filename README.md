@@ -1,4 +1,4 @@
-<h3 align="center">! Mag#0001</h3>
+<h3 align="center">SAMA#1337</h3>
 
 ```python
 class MAGEIEI:
