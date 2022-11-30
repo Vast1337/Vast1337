@@ -15,4 +15,4 @@ class MAGEIEI:
       self.contact = "http://kid.rf.gd"
 ```
 
-https://visitor-badge.glitch.me/badge?page_id=MAGEIEI.MAGEIEI
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=MAGEIEI.MAGEIEI" />
