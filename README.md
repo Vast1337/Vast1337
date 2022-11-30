@@ -10,7 +10,7 @@ class MAGEIEI:
       self.single = True
       self.real_languages = ["thai","en"]
       self.main_languages = ["python","javascript","lua"]
-      self.learning_languages = ["c++"] # "lua","c#","rust"
+      self.learning_languages = ["c++"]
       self.not_languages = ["html"]
       self.contact = "http://kid.rf.gd"
 ```
