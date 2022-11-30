@@ -14,3 +14,5 @@ class MAGEIEI:
       self.not_languages = ["html"]
       self.contact = "http://kid.rf.gd"
 ```
+
+https://visitor-badge.glitch.me/badge?page_id=MAGEIEI.MAGEIEI
