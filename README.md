@@ -1,9 +1,9 @@
-<h3 align="center">SAMA#1337</h3>
+<h3 align="center">Vast#1337</h3>
 
 ```python
 class sama1337:
    def __init__(self)->None:
-      self.name = "SAMA"
+      self.name = "VAST"
       self.age = 17
       self.gender = None
       self.human = True
